@@ -1,0 +1,14 @@
+{
+  "name": "stats-preview-component-main",
+  "version": "1.0.0",
+  "description": "Start preview component ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramy Campusano Volquez",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
